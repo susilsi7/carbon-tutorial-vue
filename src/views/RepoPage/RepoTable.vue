@@ -43,9 +43,9 @@
             row.links,
           ],
           description: 'Row description',
-      }));
+        })
+      );
     },
   },
-};
-
+}
 </script>
